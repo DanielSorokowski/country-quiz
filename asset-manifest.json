@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/job-search/static/css/main.8fed019c.css",
-    "main.js": "/job-search/static/js/main.22cd4662.js",
-    "index.html": "/job-search/index.html",
-    "main.8fed019c.css.map": "/job-search/static/css/main.8fed019c.css.map",
-    "main.22cd4662.js.map": "/job-search/static/js/main.22cd4662.js.map"
+    "main.css": "/country-quiz/static/css/main.8fed019c.css",
+    "main.js": "/country-quiz/static/js/main.22cd4662.js",
+    "index.html": "/country-quiz/index.html",
+    "main.8fed019c.css.map": "/country-quiz/static/css/main.8fed019c.css.map",
+    "main.22cd4662.js.map": "/country-quiz/static/js/main.22cd4662.js.map"
   },
   "entrypoints": [
     "static/css/main.8fed019c.css",
